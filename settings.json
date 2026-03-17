@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "anasmousa1.aternos.me",
-    "port": 11225,
+    "ip": "anasmousa1.aternos.me:11225",
+    "port": 11225 ,
     "version": "",
     "try-creative": false
   },
